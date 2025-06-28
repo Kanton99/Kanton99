@@ -24,4 +24,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Certifications
 ## Unity
-[![Unity User Certification](https://images.credly.com/size/50x50/images/51da8803-3699-4392-8ef5-3291e6bc084d/image.png)](https://www.credly.com/badges/7350ac27-6453-46e2-91c5-7116df745588/public_url)
+[![Unity User Certification](https://images.credly.com/size/156x156/images/51da8803-3699-4392-8ef5-3291e6bc084d/image.png)](https://www.credly.com/badges/7350ac27-6453-46e2-91c5-7116df745588/public_url)
