@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Game Engine<br>🌱 I’m currently learning Unity<br>💬 Ask me about C++
+🔭 I’m currently working on a Game Engine<br>🏢Currently working on a AI web platform<br>💬 Ask me about C++
 
 
 ## 🌐 Socials:
